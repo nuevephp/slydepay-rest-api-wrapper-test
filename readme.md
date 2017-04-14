@@ -1,6 +1,9 @@
 Slydepay PHP REST Wrapper test app
 =====================
 
+This repository is building ontop of a Pull Request I sent to the Slydepay repo,
+you can view more on the PR at https://github.com/DreamOval/slydepay-php-connector/pull/3
+
 You can sign up for a Slydepay Merchant account at https://app.slydepay.com.gh/auth/signup#business_reg
 
 ## Installation
