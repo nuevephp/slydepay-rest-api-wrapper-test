@@ -1,0 +1,22 @@
+{
+    "orders": {
+        "id": "ORDR:3213",
+        "description": "Shopping for household items",
+        "items": [
+            {
+                "id": "ORD:1234",
+                "name": "Toothbrush",
+                "price": "12.15",
+                "quantity": 1
+            },
+            {
+                "id": "ORD:1232",
+                "name": "Toothpaste",
+                "price": "15.15",
+                "quantity": 2
+            }
+        ],
+        "tax_amount": "20.00",
+        "shipping_cost": "10.00"
+    }
+}
