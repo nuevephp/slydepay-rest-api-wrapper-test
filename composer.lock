@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "9503024926af5345d6792a6648b0d17d",
-    "content-hash": "8436102ed813edfe1ef381d507287b26",
+    "hash": "c8e1ab18b5ff4ca700b4bc02368a533f",
+    "content-hash": "7a35c623697e872e262a6554621671f0",
     "packages": [
         {
             "name": "container-interop/container-interop",
@@ -302,8 +302,14 @@
             "version": "dev-modern-php",
             "source": {
                 "type": "git",
-                "url": "/Users/andrewsmith/Code/slydepay-php-connector",
+                "url": "https://github.com/silentworks/slydepay-php-connector.git",
                 "reference": "79c57398d1932e224ad6783f0f61a699284b5d03"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/silentworks/slydepay-php-connector/zipball/79c57398d1932e224ad6783f0f61a699284b5d03",
+                "reference": "79c57398d1932e224ad6783f0f61a699284b5d03",
+                "shasum": ""
             },
             "require": {
                 "php": ">=5.6"
@@ -326,6 +332,9 @@
                     "email": "a.smith@silentworks.co.uk"
                 }
             ],
+            "support": {
+                "source": "https://github.com/silentworks/slydepay-php-connector/tree/modern-php"
+            },
             "time": "2017-04-01 18:01:55"
         },
         {
